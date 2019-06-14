@@ -5,18 +5,18 @@
     "start": "meteor run"
   },
   "dependencies": {
-    "@babel/runtime": "^7.0.0-beta.39",
+    "@babel/runtime": "^7.4.5",
     "babel-runtime": "^6.26.0",
     "bcrypt": "^1.0.3",
-    "history": "^4.7.2",
-    "meteor-node-stubs": "^0.3.2",
-    "moment": "^2.20.1",
-    "prop-types": "^15.6.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-router": "^4.2.0",
-    "react-router-dom": "^4.2.2",
-    "simpl-schema": "^1.4.1"
+    "history": "^4.9.0",
+    "meteor-node-stubs": "^0.3.3",
+    "moment": "^2.24.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "simpl-schema": "^1.5.5"
   },
   "engines": {
     "node": "8.9.4"
